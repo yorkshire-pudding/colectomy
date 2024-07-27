@@ -2,4 +2,7 @@ name = Colectomy
 description = Adds an option to field display settings to hide the colon on field labels.
 backdrop = 1.x
 type = module
+
+maintainers[yorkshire-pudding] = Martin Price
+
 package = Fields
